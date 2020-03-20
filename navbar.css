@@ -47,7 +47,7 @@ label {
 	bottom: 0px;
 	height: 40px;
 }
-@media only screen and (max-width: 765px) {
+@media (max-width: 765px) {
 	label {
 		display: flex;
 		cursor: pointer;
